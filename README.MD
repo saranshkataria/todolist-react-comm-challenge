@@ -378,7 +378,7 @@ We will not be using this in our application since there is no need for it, but 
 
 You can find the code written until now[here](https://github.com/saranshkataria/todo-list-react-hooks-demo/tree/845eb6b2ad9d12888748efb76ff7b6b08c087f6f) if you want to refer it.
 
-#useReducer
+# useReducer
 
 ![useReducer](https://www.wisdomgeek.com/wp-content/uploads/2020/08/usereducer-react-hook.png)
 
