@@ -583,7 +583,7 @@ You can find the code changes [here](https://github.com/saranshkataria/todo-list
 
 # Context API and the useContext React hook 
 
-![useContext]('https://www.wisdomgeek.com/wp-content/uploads/2020/09/useContext-react-hook.jpg')
+![useContext](https://www.wisdomgeek.com/wp-content/uploads/2020/09/useContext-react-hook.jpg)
 
 The next react hook we will look into is the useContext hook. As we saw above, we had to lift the state up to our root component in order to be able to share it among multiple children components. We then passed in the corresponding state objects to the children components as props to have shared state and a single source of truth at the parent level.
 
