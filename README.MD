@@ -380,7 +380,7 @@ You can find the code written until now[here](https://github.com/saranshkataria/
 
 #useReducer
 
-![useReducer]('https://www.wisdomgeek.com/wp-content/uploads/2020/08/usereducer-react-hook.png')
+![useReducer](https://www.wisdomgeek.com/wp-content/uploads/2020/08/usereducer-react-hook.png)
 
 Next, we will look at the useReducer hook. useReducer hook can be an alternative to useState (in fact, useState uses useReducer internally). Before getting into how to use the useReducer hook, we should understand what is meant by a reducer.
 
