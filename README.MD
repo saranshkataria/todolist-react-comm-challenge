@@ -62,9 +62,9 @@ const ItemList = ({ items }) => {
     </div>
   );
 };
-```
 
 export { ItemList as default };
+```
 
 Now that we have those setup, all we need is to hook them up in the Application component and pass the items as props to the ItemList.
 
